@@ -1,0 +1,42 @@
+[
+    {
+       "title": "10th Gen Civic",
+       "cardTitle": "Honda Civic",
+       "cardSubtitle": "The latest Generation of civic",
+       "cardDetailedText": "Honda released the 10th generation of the civic in 2016. he Civic has gone through several generational changes, becoming both larger and more upscale, moving into the compact car segment",
+       "media": {
+        "name": "Honda Civic",
+        "type": "IMAGE",
+        "source": {
+          "url": "civic.jpg",
+          "type": "jpg"
+        }
+      }
+    },
+    {
+       "title": "2000 civic SI",
+       "cardTitle": "2000 civic SI",
+       "cardSubtitle": "One of the best civics ever made",
+       "cardDetailedText": "Powered by a b16 DOHC motor, delivering 160bhp. Being one of the few card to achieve 100bhp per 1000cc",
+       "media": {
+        "source": {
+          "url": "https://www.youtube.com/embed/hPPVTzxwb5M",
+          "type": "mp4"
+        },
+        "type": "VIDEO",
+        "name": "Pearl Harbor"
+      }
+    },
+    {
+       "title": "Porsche 911",
+       "cardTitle": "Porsche 911",
+       "cardSubtitle": "Introduced in 1964",
+       "cardDetailedText": "The Porsche 911 (pronounced Nine Eleven or in German: Neunelfer) is a two-door 2+2 high performance rear-engined sports car introduced in September 1964 by Porsche AG of Stuttgart, Germany."
+    },
+    {
+       "title": "Ferrari F355",
+       "cardTitle": "Ferrari F355",
+       "cardSubtitle": "My favourite Ferrari from the 90s",
+       "cardDetailedText": "The Ferrari F355 (Type F129) is a sports car manufactured by Italian car manufacturer. Ferrari produced from May 1994 to 1999. The car is a heavily revised Ferrari 348 with notable exterior and performance changes. The F355 was succeeded by the all-new Ferrari 360 in 1999"
+    }
+ ]

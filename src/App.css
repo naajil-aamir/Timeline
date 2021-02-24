@@ -1,7 +1,9 @@
 .App {
   text-align: center;
 }
-
+html,body{
+  height: 100%;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -12,7 +14,36 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+.shadow{
+  -webkit-box-shadow: 1px 1px 11px 1px rgba(0,0,0,0.75);
+  -moz-box-shadow: 1px 1px 11px 1px rgba(0,0,0,0.75);
+  box-shadow: 1px 1px 11px 1px rgba(0,0,0,0.75);
+}
+.padding-16{
+  padding-left: 16px;
+  padding-right: 16px;
+}
+.positions{
+  position: relative;
+  -ms-transform: translateY(40%);
+  transform: translateY(40%);
+}
+.margin-Auto{
+  margin: auto;
+}
+.Width-700{
+  width:700px;
+} 
+.Height-500{
+  height: 400px;
+}
+.align-center{
+  align: center;
+}
+.timeline-item-title{
+  position: relative;
+  top: -20px;
+}
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
